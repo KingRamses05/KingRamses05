@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ramses
+- 👀 I’m interested in learnning different types of code
+- 🌱 I’m currently learning C++, Python, SQL and Go
+- 💞️ I’m looking to collaborate on anything for beginners and I'm eager to learn
+- 📫 How to reach me Gonzalezramses8@gmail.com and KingRamses#6139 on discord
